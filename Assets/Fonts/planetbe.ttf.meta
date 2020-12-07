@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ec273bf469f11f141b747794bd100c76
+timeCreated: 1501306099
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Planet Benson 2
+  fontNames:
+  - Planet Benson 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
